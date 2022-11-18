@@ -5,7 +5,7 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://source.unsplash.com/collection/94734566/1920x1080
 # apply any windi css classes to the current slide
-class: 'text-center'
+class: "text-center"
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # show line numbers in code blocks
@@ -21,32 +21,29 @@ drawings:
   persist: false
 fonts:
   # basically the text
-  sans: 'Robot'
+  sans: "Robot"
   # use with `font-serif` css class from windicss
-  serif: 'Robot Slab'
+  serif: "Robot Slab"
   # for code blocks, inline code, etc.
-  mono: 'Fira Code'
+  mono: "Fira Code"
 ---
 
-# Learn to Navigate a TypeScript Codebase
-
-using open source
+# Why I Use Neovim From Within VS Code
 
 <!--
 Put notes here
 -->
 
 ---
-layout: center
----
+
+## layout: center
 
 # ?
 
-
 <!--
-Let met start with a question. Who's been taught how to navigate a large codebase? 
+Let met start with a question. Who's been taught how to navigate a large codebase?
 Not necessarily TypeScript or React but any codebase.
-Anyone? 
+Anyone?
 Anyone endorsed by others for this skill on LinkedIn?
 Yeah, me neither
 -->
@@ -63,107 +60,92 @@ h1 {
 }
 </style>
 
+---
 
---- 
-
-# Why
+# About Me
 
 <v-clicks>
 
-1. onboarding
-2. third-party 
+- self-taught
+- Open Source TypeScript Engineer at [Coder](https://coder.com)
+- [code-server](https://github.com/coder/code-server) maintainer
+- instructor at [TypeScript Course](https://typescriptcourse.com)
+
+</v-clicks>
 
 </v-clicks>
 
 ---
-layout: center
----
 
-## x + y + z = &lt;navigate-codebase&gt;
+## layout: center
 
+## "You're too slow"
 
-<!-- 
-What if we could reverse-engineer it?
+<!--
+WordPress story
  -->
 
 ---
-layout: center
-class: text-center
+
+## layout: center
+
+## "Used by the Greats"
+
+<!--
+Ryan florence story
+ -->
+
 ---
 
-<v-click>
+## layout: center
 
-# Time travel
+## TJ to the rescue
 
-</v-click>
+<!--
+TJ story
+ -->
 
-<!-- 
-Here's what we're going to do. 
+---
+
+layout: center
+class: text-center
+
+---
+
+# Demo of Workflow
+
+<!--
+Here's what we're going to do.
 1. Find an open source repo
 2. Find an issue that's been solved
 3. Use it as a way to learn how to navigate the codebase
 
-After this, do live searching on GitHub. 
+After this, do live searching on GitHub.
 Clone and go through steps.
 
 -->
 
 ---
+
 layout: center
 class: text-center
----
-
-[Begin search](https://github.com/issues?q=is%3Aclosed+is%3Aissue+archived%3Afalse+org%3Atesting-library+label%3A%22good+first+issue%22+linked%3Apr)
-
-<!-- 
-
-1. open up GitHub
-2. go to reactg;tes
-
- -->
 
 ---
 
-# Recap
+# Question
 
 <v-clicks>
 
-1. Found solved issue
-2. Used formula
-3. Re-solved issue
+Neovimer - 1
+
+VS Coder - 2
 
 </v-clicks>
 
-
-<!-- 
-Let's recap. Here's what we did.
+<!--
+TODO add script
 -->
 
----
-
-# Formula
-
-<v-clicks>
-
-- **F**older structure
-- **C**ode we're touching
-- **T**ypes
-- **T**ests
-
-</v-clicks>
-
----
-layout: center
-class: text-center
----
-
-![Purple cat inside a folder](/fctt-cat.svg)
-
-F.C.T.T.
-
----
-layout: center
-class: text-center
 ---
 
 # Thank you!
@@ -185,8 +167,7 @@ girl dad &lt; 1 year, dogs, indie hacking, Star Wars
   }
 </style>
 
-
-<!-- 
+<!--
 Thank you so much for your attention today!
 
 If you want to connect, I'm on Twitter @jsjoeio
@@ -195,4 +176,3 @@ Or if you want to come say hi after the talks, here's a list of good topic start
 
 Thanks again!
  -->
-
