@@ -30,15 +30,31 @@ fonts:
 
 # Why I Use Neovim From Within VS Code
 
-<!--
-Put notes here
--->
+---
+
+# About Me
+
+<v-clicks>
+
+- Open Source TypeScript Engineer at [Coder](https://coder.com)
+- [code-server](https://github.com/coder/code-server) maintainer
+- course author
+  - [TypeScript Course](https://typescriptcourse.com)
+  - [Vim for VS Code](https://vimforvscode.com)
+
+</v-clicks>
 
 ---
 
-## layout: center
-
 # ?
+
+<v-clicks>
+
+- Neovimer - 1
+
+- VS Coder - 2
+
+</v-clicks>
 
 <!--
 Let met start with a question. Who's been taught how to navigate a large codebase?
@@ -48,36 +64,7 @@ Anyone endorsed by others for this skill on LinkedIn?
 Yeah, me neither
 -->
 
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
 ---
-
-# About Me
-
-<v-clicks>
-
-- self-taught
-- Open Source TypeScript Engineer at [Coder](https://coder.com)
-- [code-server](https://github.com/coder/code-server) maintainer
-- instructor at [TypeScript Course](https://typescriptcourse.com)
-
-</v-clicks>
-
-</v-clicks>
-
----
-
-## layout: center
 
 ## "You're too slow"
 
@@ -87,8 +74,6 @@ WordPress story
 
 ---
 
-## layout: center
-
 ## "Used by the Greats"
 
 <!--
@@ -97,18 +82,11 @@ Ryan florence story
 
 ---
 
-## layout: center
-
-## TJ to the rescue
+## "Professor TJ"
 
 <!--
 TJ story
  -->
-
----
-
-layout: center
-class: text-center
 
 ---
 
@@ -127,27 +105,6 @@ Clone and go through steps.
 
 ---
 
-layout: center
-class: text-center
-
----
-
-# Question
-
-<v-clicks>
-
-Neovimer - 1
-
-VS Coder - 2
-
-</v-clicks>
-
-<!--
-TODO add script
--->
-
----
-
 # Thank you!
 
 <img src="https://avatars.githubusercontent.com/u/3806031?v=4" class="h-35 mb-2 rounded-full mx-auto" />
@@ -155,8 +112,6 @@ TODO add script
 [@jsjoeio](https://twitter.com/jsjoeio)
 
 <br />
-
-[typescriptcourse.com](https://typescriptcourse.com)
 
 girl dad &lt; 1 year, dogs, indie hacking, Star Wars
 
