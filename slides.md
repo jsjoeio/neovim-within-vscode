@@ -225,6 +225,103 @@ layout: center
 
 ---
 
+<v-clicks>
+
+![vim vscode extension](/vim-vscode.png)
+
+</v-clicks>
+
+<!-- I asked myself, could I get the powers of Vim in VS Code without taking the full plunge? After some research, I discovered a solution - the Vim keybindings extension.  -->
+
+---
+layout: center
+---
+
+<div class="container">
+
+<v-clicks>
+
+![VS Code logo](/vscode-logo.png)
+
+![sublime logo](/sublime-logo.png)
+
+</v-clicks>
+
+</div>
+
+<!-- When debating whether or not to switch, one reason stood out: you know those Sublime keyboard shortcuts I invested so heavily in? Well turns out they’re only useful in two places: Sublime and VS Code. -->
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: space-between;
+  }
+  img {
+    width: 200px;
+    margin-right: 48px;
+  }
+</style>
+
+---
+layout: center
+---
+
+# unviersal 
+
+# keyboard shortcut 
+
+# language
+
+<!-- Vim on the other hand is like a “universal keyboard shortcut language”. It actually has a purpose outside VS Code. It can even be used in most web-based platforms like Replit and CodeSandbox. That fact alone sold it for me. I could keep my workflows but supercharge my skills. I drank the Vim kool aid and loved it so much I created a course to help others pick up the skills faster than I could.
+ -->
+
+<style>
+  h1 {
+    text-align: center;
+    font-size: 5rem;
+  }
+</style>
+
+---
+layout: center
+---
+
+# 2022
+
+"same same but different"
+
+<!-- Continuing with the timeline, now it’s 2022. I’m still using VS Code as my IDE but there’s a twist. -->
+
+---
+
+[![screenshot of code-server](/code-server.png)](https://github.com/coder/code-server)
+
+<!-- I’m 100% sold on the “localhost is dead” movement and I’ve moved to a remote development environment. Most of the things I don’t code locally and I access my IDE through a browser. This is the way. -->
+
+---
+layout: center
+---
+
+![Mando saying this is the way](/way.gif)
+
+---
+layout: center
+---
+
+
+![lurker](/lurking.gif)
+
+<!-- However, Vim still lurks in the shadows. -->
+---
+layout: center
+---
+
+tj and prime
+<!-- Somehow, I end up following these two degens on Twitter: ThePrimeagen and Teej. And there’s one thing they both keep mentioning over and over: Neovim. --> -->
+---
+
 ## "Professor TJ"
 
 <!--
