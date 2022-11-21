@@ -165,8 +165,63 @@ layout: center
 ## "Used by the Greats"
 
 <!--
-Ryan florence story
+This next story I want to share is called "used by the greats".
+
  -->
+
+---
+layout:center
+---
+
+<v-clicks>
+
+![ryan florence speaking on stage](/ryan-phoenix.webp)
+
+</v-clicks>
+
+<!-- Fast forward a couple years later. I'm sitting in the front row at the Phoenix React.js Meetup listening to Ryan Florence talk about React hooks. Hooks are this completely new paradigm but that’s not what’s got my attention. No, it’s Ryan and his fingers.
+
+He is literally flying through his editor and my brain literally can’t comprehend it. “How is it humanly possible to move that fast without touching your trackpad?” I ask myself.
+ -->
+
+---
+layout: center
+---
+
+<v-clicks>
+
+# Vim
+
+</v-clicks>
+
+<!-- Then I realized there could only be one answer: Vim.
+
+It was then I had an epiphany. These giants in the web space had one thing in common: they all used Vim! 
+ -->
+
+---
+layout: center
+---
+
+![VS Code logo](/vscode-logo.png)
+
+# "I love you"
+
+<!-- I was already on the VS Code train by then and had my workflows down to a T like pair-programming with VS Live Share, had my theme and my settings so I wasn’t prepared to switch editors. -->
+
+<style>
+  img {
+    width: 200px;
+  }
+</style>
+
+---
+layout: center
+---
+
+![sublime vscode extension](/sublime.jpg)
+
+<!-- Heck, I was still using the Sublime keyboard shortcuts – in VS Code! -->
 
 ---
 
