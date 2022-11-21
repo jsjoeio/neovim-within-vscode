@@ -149,6 +149,16 @@ layout: center
 <!-- He smiles and says, “I do. You’re too slow at the keyboard. You use your mouse too much. I want to see you invest in learning keyboard shortcuts.”  -->
 
 ---
+layout: center
+---
+
+<v-clicks>
+
+![sublime for dummies book](/dummies.jpeg)
+
+</v-clicks>
+
+<!-- Inside, I was crumbling. “Dang… never even thought to deliberately invest time into learning keyboard shortcuts.” So I spent the entire weekend learning Sublime keyboard shortcuts just so he wouldn’t say the same thing next Feedback Friday. And over time, I started to realize the power of keyboard speed. -->
 
 ---
 
