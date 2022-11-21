@@ -28,7 +28,19 @@ fonts:
   mono: "Fira Code"
 ---
 
-# Why I Use Neovim From Within VS Code
+# Why I Use Neovim
+
+# From Within VS Code
+
+<!-- Hey everyone, my name is Joe Previte and today I'm going to be talking to you about why I use Neovim from within VS Code.  -->
+
+---
+layout: center
+---
+
+## "but why???"
+
+<!-- The goal of this talk  is to open your eyes to a new way of seeing the relationship between Neovim and VSCode.  -->
 
 ---
 
@@ -36,41 +48,107 @@ fonts:
 
 <v-clicks>
 
+- Joe Previte
 - Open Source TypeScript Engineer at [Coder](https://coder.com)
-- [code-server](https://github.com/coder/code-server) maintainer
-- course author
-  - [TypeScript Course](https://typescriptcourse.com)
-  - [Vim for VS Code](https://vimforvscode.com)
 
 </v-clicks>
 
+  <!-- A little bit about me. I work as an Open Source TypeScript Engineer at a startup called Coder which helps teams move their development environments to the cloud (aka remote dev environments). -->
+
 ---
 
-# ?
+[![screenshot of code-server](/code-server.png)](https://github.com/coder/code-server)
+
+<!-- There my main responsibility is maintaining an open source project called code-server which is VS Code in the browser. -->
+
+---
+
+# Courses
+
+<div class="container">
+
+[![vim course screenshot](/vim-course.jpg)](https://vimforvscode.com)
+
+[![typescript course screenshot](/ts-course.jpg)](https://typescriptcourse.com)
+
+</div>
+
+<!-- Outside of that I have two courses - one that’s a free email course on TypeScript and the other is a paid course which teaches you the basics of Vim to use within VS Code. -->
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
+  img {
+    width: 500px;
+  }
+</style>
+
+---
+layout: center
+---
+
+"You're too slow"
+
+<!-- I want to start today’s talk with a quick story about how I became interested in keyboard productivity, the gateway to Vim. -->
+---
 
 <v-clicks>
 
-- Neovimer - 1
-
-- VS Coder - 2
+![coworking space](/cohoots.png)
 
 </v-clicks>
 
 <!--
-Let met start with a question. Who's been taught how to navigate a large codebase?
-Not necessarily TypeScript or React but any codebase.
-Anyone?
-Anyone endorsed by others for this skill on LinkedIn?
-Yeah, me neither
--->
+Picture this: I'm at my first dev job as a self-taught engineer. It’s my first week in the office after working with my boss remotely for one month.
+ -->
 
 ---
 
-## "You're too slow"
+![coworking space with arrow](/cohoots-arrow.png)
 
 <!--
-WordPress story
+Part of our “culture” is doing these things called Feedback Fridays where we sit down right here and give each other feedback, if we have any.
+
+As usual, he starts it off with, “so…do you have any feedback for me?” I’m a nice guy. It’s also my first dev job so I don’t want to screw anything up and I say, “i like pair-programming with you! I feel like I’m always learning new things about WordPress.”
+
+He smiles and says thanks! He also enjoys pairing with me.
+
  -->
+
+---
+layout: center
+---
+
+<v-clicks>
+
+![man sweating profusely](/sweating.gif)
+
+</v-clicks>
+
+<!-- He pauses, waiting for me to ask him the same question so I say, “so…do you have any feedback for me?” My heart’s beating fast. I’ve still got the first-week nerves. -->
+
+---
+
+<v-clicks>
+
+"You're too slow at the keyboard."
+
+<br />
+
+"You use your mouse too much."
+
+<br />
+
+"I want to see you invest in learning keyboard shortcuts."
+
+</v-clicks>
+
+
+<!-- He smiles and says, “I do. You’re too slow at the keyboard. You use your mouse too much. I want to see you invest in learning keyboard shortcuts.”  -->
+
+---
 
 ---
 
