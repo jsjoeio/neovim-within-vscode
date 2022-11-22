@@ -414,6 +414,8 @@ Now that you know what it took to get me here today, I want to show you this flo
 -->
 
 ---
+layout: center
+---
 
 # Thank you!
 
@@ -426,7 +428,11 @@ Now that you know what it took to get me here today, I want to show you this flo
 girl dad &lt; 1 year, dogs, indie hacking, Star Wars
 
 <style>
+  h1 {
+    text-align: center
+  }
   p {
+    text-align: center;
     margin-top: 1px;
     margin-bottom: 1.6rem;
   }
