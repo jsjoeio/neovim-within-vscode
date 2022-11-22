@@ -318,28 +318,98 @@ layout: center
 layout: center
 ---
 
-tj and prime
-<!-- Somehow, I end up following these two degens on Twitter: ThePrimeagen and Teej. And there’s one thing they both keep mentioning over and over: Neovim. --> -->
+<div class="flex flex-row">
+<div class="flex flex-col justify-center items-center mr-8">
+<img src="https://pbs.twimg.com/profile_images/1510770649559547908/zd9t45gH_400x400.jpg" class="h-35 mb-2 rounded-full mx-auto" />
+<span class="text-center mt-2">ThePrimeagen</span>
+</div>
+
+<div class="flex flex-col justify-center items-center mr-8">
+<img src="https://pbs.twimg.com/profile_images/1518677058301349888/iZmoplTq_400x400.jpg" class="h-35 mb-2 rounded-full mx-auto" />
+<span class="mt-2">teej dv</span>
+</div>
+</div>
+
+<v-clicks>
+
+<p class="pt-16 font-bold text-center">Neovim</p>
+
+</v-clicks>
+
+<!-- Somehow, I end up following these on Twitter: ThePrimeagen and Teej. And there’s one thing they both keep mentioning over and over: Neovim. -->
+
+
+---
+layout:center
 ---
 
-## "Professor TJ"
+![teej tweet about livestream with him](/tweet-.png)
 
-<!--
-TJ story
+<!-- I finally caved and asked TJ where I can learn more. Being the nice guy he is, he offers to introduce me to Neovim on a live stream. -->
+
+---
+
+![joe and teej livestreaming neovim](/livestream.png)
+
+<!-- We do the livestream and it’s awesome! It’s fun, there is so much you can configure and it genuinely seems like it could be faster than my VS Code experience. I also think back to my idols and how I’m still missing out on something they’ve found. After weeks after the livestream, I’m reflecting on the livestream I had with TJ and thinking, “Neovim would be cool…but I don’t know if it could match my current workflow.”
+-->
+
+---
+
+<v-clicks>
+
+1. An internet connection
+2. A browser
+
+</v-clicks>
+
+
+<!-- My workflow only had two requirements:
+1. An internet connection
+2. A browser
+
+Everything else is irrelevant. This is the workflow I’ve adopted because it lets me access my dev environment from any device, anywhere. I could spill coffee on my laptop, pick up my phone and be coding 5mins later. And I love having that ability.
  -->
 
 ---
 
+![dms between joe and teej](/dms.png)
+
+<!--
+Still, I romanticize using Neovim as my main IDE. Multiple times I tweet and DM TJ asking if he knows of a web-based terminal because then I could migrate my flows over. It’s this last time that we were tweeting about it where he says something that makes it click.
+ -->
+
+---
+layout: center
+---
+
+![tweet about ssh](/ssh.png)
+
+<!-- He says, “all you need is an SSH client.” -->
+
+---
+
+<v-clicks>
+
+![code-server with terminal in workbench](/code-server-neovim.png)
+
+</v-clicks>
+
+<!-- 
+I let that sink in and then I realized, “Oh my gosh. The answer has been in front of me this whole time.”
+
+“code-server is my SSH Client. It’s literally a giant terminal that I can access via the web.”
+
+That means I can keep all my tools without having to find an SSH client or terminal application for every device I have. I can do it all through the browser! And that’s what I’ve been doing for the last couple of weeks.
+ -->
+
+---
+layout: center
+---
 # Demo of Workflow
 
 <!--
-Here's what we're going to do.
-1. Find an open source repo
-2. Find an issue that's been solved
-3. Use it as a way to learn how to navigate the codebase
-
-After this, do live searching on GitHub.
-Clone and go through steps.
+Now that you know what it took to get me here today, I want to show you this flow right now.
 
 -->
 
