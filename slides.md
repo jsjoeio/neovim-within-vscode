@@ -268,11 +268,10 @@ layout: center
 layout: center
 ---
 
-# unviersal 
+# universal 
 
-# keyboard shortcut 
+# keyboard shortcuts
 
-# language
 
 <!-- Vim on the other hand is like a “universal keyboard shortcut language”. It actually has a purpose outside VS Code. It can even be used in most web-based platforms like Replit and CodeSandbox. That fact alone sold it for me. I could keep my workflows but supercharge my skills. I drank the Vim kool aid and loved it so much I created a course to help others pick up the skills faster than I could.
  -->
