@@ -1,5 +1,5 @@
-- [ ] add link at end to learn more about coder for neovim
-- [ ] move last slide to About Me
+- [x] move last slide to About Me
+- [x] add link at end to learn more about coder for neovim
 - [ ] watch [video](https://www.youtube.com/watch?v=2ORWaIqyj7k&ab_channel=Theena) to get sense of storytelling
 - [ ] write outline for demo
 - [ ] practice stories

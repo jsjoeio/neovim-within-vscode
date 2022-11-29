@@ -48,10 +48,29 @@ layout: center
 
 <v-clicks>
 
+<img src="https://avatars.githubusercontent.com/u/3806031?v=4" class="h-35 mb-2 rounded-full mx-auto" />
+
+[@jsjoeio](https://twitter.com/jsjoeio)
+
+<br />
+
+
 - Joe Previte
 - Open Source TypeScript Engineer at [Coder](https://coder.com)
+- girl dad(1y), dogs, indie hacking, Star Wars
 
 </v-clicks>
+
+<style>
+  h1 {
+    text-align: center
+  }
+  p {
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 1.6rem;
+  }
+</style>
 
   <!-- A little bit about me. I work as an Open Source TypeScript Engineer at a startup called Coder which helps teams move their development environments to the cloud (aka remote dev environments). -->
 
@@ -418,13 +437,13 @@ layout: center
 
 # Thank you!
 
-<img src="https://avatars.githubusercontent.com/u/3806031?v=4" class="h-35 mb-2 rounded-full mx-auto" />
+<br />
 
-[@jsjoeio](https://twitter.com/jsjoeio)
+Say hi on Twitter: [@jsjoeio](https://twitter.com/jsjoeio)
 
 <br />
 
-girl dad &lt; 1 year, dogs, indie hacking, Star Wars
+[Learn more about Neovim in Coder](https://github.com/coder/coder/discussions/5191)
 
 <style>
   h1 {
