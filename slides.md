@@ -40,7 +40,7 @@ layout: center
 
 ## "but why???"
 
-<!-- The goal of this talk  is to open your eyes to a new way of seeing the relationship between Neovim and VSCode.  -->
+<!-- The goal of this talk is to show you how to use Neovim in an unconventional way. -->
 
 ---
 
@@ -72,7 +72,7 @@ layout: center
   }
 </style>
 
-  <!-- A little bit about me. I work as an Open Source TypeScript Engineer at a startup called Coder which helps teams move their development environments to the cloud (aka remote dev environments). -->
+  <!-- A little bit about me. I'm Joe Previte. I work as an Open Source TypeScript Engineer at a startup called Coder which helps teams move their development environments to the cloud (aka remote dev environments). Lastly, a couple more personal things. -->
 
 ---
 
@@ -457,11 +457,10 @@ Say hi on Twitter: [@jsjoeio](https://twitter.com/jsjoeio)
 </style>
 
 <!--
-Thank you so much for your attention today!
+Thank you so much for your attention today! Hope you enjoyed learning about how
+to use Neovim in a different way that makes your dev environment more portable.
 
 If you want to connect, I'm on Twitter @jsjoeio
-
-Or if you want to come say hi after the talks, here's a list of good topic starters/things i'm into
 
 Thanks again!
  -->
