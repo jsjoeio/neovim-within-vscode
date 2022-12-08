@@ -46,7 +46,6 @@ layout: center
 
 # About Me
 
-<v-clicks>
 
 <img src="https://avatars.githubusercontent.com/u/3806031?v=4" class="h-35 mb-2 rounded-full mx-auto" />
 
@@ -58,8 +57,6 @@ layout: center
 - Joe Previte
 - Open Source TypeScript Engineer at [Coder](https://coder.com)
 - girl dad(1y), dogs, indie hacking, Star Wars
-
-</v-clicks>
 
 <style>
   h1 {
