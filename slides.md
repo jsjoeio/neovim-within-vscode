@@ -30,6 +30,8 @@ fonts:
 
 # Why I Use Neovim
 
+hello world
+
 # From Within VS Code
 
 <!-- Hey everyone, my name is Joe Previte and today I'm going to be talking to you about why I use Neovim from within VS Code.  -->
@@ -98,6 +100,20 @@ layout: center
   }
   img {
     width: 500px;
+  }
+</style>
+
+---
+layout: center
+---
+
+1️⃣ 2️⃣ 3️⃣
+
+<!-- The format for today's talk will be a story in 3 acts and take you through my journey from the beginning to becoming a Neovim user. -->
+
+<style>
+  p {
+    font-size: 13rem;
   }
 </style>
 
@@ -174,11 +190,13 @@ layout: center
 
 </v-clicks>
 
-<!-- Inside, I was crumbling. “Dang… never even thought to deliberately invest time into learning keyboard shortcuts.” So I spent the entire weekend learning Sublime keyboard shortcuts just so he wouldn’t say the same thing next Feedback Friday. And over time, I started to realize the power of keyboard speed. -->
+<!-- I spent that weekend learning Sublime keyboard shortcuts and started to realize the pwoer of keyboard speed. But deep down, I knew this was only the beginning. -->
 
 ---
+layout: center
+---
 
-## "Used by the Greats"
+"Used by the Greats"
 
 <!--
 This next story I want to share is called "used by the greats".
@@ -265,7 +283,7 @@ layout: center
 
 </div>
 
-<!-- When debating whether or not to switch, one reason stood out: you know those Sublime keyboard shortcuts I invested so heavily in? Well turns out they’re only useful in two places: Sublime and VS Code. -->
+<!-- When debating whether or not to switch, one reason stood out: you know those Sublime keyboard shortcuts I invested so heavily in? Well turns out they’re only useful in two places: Sublime and VS Code. Why limit myself to those environments? -->
 
 <style>
   .container {
@@ -290,6 +308,8 @@ layout: center
 
 
 <!-- Vim on the other hand is like “universal keyboard shortcuts”. It actually has a purpose outside VS Code. It can even be used in most web-based platforms like Replit and CodeSandbox. That fact alone sold it for me. I could keep my workflows but supercharge my skills. I drank the Vim kool aid and loved it so much I created a course to help others pick up the skills faster than I could.
+
+This meant I removed limitations I didn't know I had before.
  -->
 
 <style>
@@ -302,8 +322,6 @@ layout: center
 ---
 layout: center
 ---
-
-# 2022
 
 "same same but different"
 
@@ -415,7 +433,7 @@ I let that sink in and then I realized, “Oh my gosh. The answer has been in fr
 
 “code-server is my SSH Client. It’s literally a giant terminal that I can access via the web.”
 
-That means I can keep all my tools without having to find an SSH client or terminal application for every device I have. I can do it all through the browser! And that’s what I’ve been doing for the last couple of weeks.
+I had achieved environment independence and pinnacle of speed
  -->
 
 ---
