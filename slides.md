@@ -30,8 +30,6 @@ fonts:
 
 # Why I Use Neovim
 
-hello world
-
 # From Within VS Code
 
 <!-- Hey everyone, my name is Joe Previte and today I'm going to be talking to you about why I use Neovim from within VS Code.  -->
